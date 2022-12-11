@@ -1,1 +1,1 @@
-# The Modern JavaScript Bootcamp
+# Notes App JS
